@@ -1,0 +1,4 @@
+#Wed Jan 31 08:39:41 PST 2018
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=installed runtime

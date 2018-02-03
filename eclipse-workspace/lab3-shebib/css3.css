@@ -1,0 +1,125 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    line-height: 22px;
+    background-color: #0b0a2d;
+    color: #bed2e2;
+}
+
+.wrapper {
+    position: relative;
+    left: 200px;
+    top: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 1px;
+    background-color: #1b4466;
+}
+
+#top {
+    background-color: #5c568c;
+    border-radius: 1px;
+    padding: 5px;
+}
+
+#menubar {
+    float: left;
+    width: 200px;
+    display: block;
+    padding-right: 30px;
+}
+
+#menuitem1 {
+    padding:10px;
+    text-align:center;
+    text-decoration:none;
+    list-style-type:none;
+    cursor: pointer;
+    display:inline-block;
+    border-radius:2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top:10px;
+    width: 120px;
+    background-color:#4786bc;
+}
+
+#menuitem2 {
+    padding:10px;
+    text-align:center;
+    text-decoration:none;
+    list-style-type:none;
+    cursor: pointer;
+    display:inline-block;
+    border-radius:2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 120px;
+    background-color:#0b0a2d;
+}
+
+#menuitem3 {
+    padding:10px;
+    text-align:center;
+    text-decoration:none;
+    list-style-type:none;
+    cursor: pointer;
+    display:inline-block;
+    border-radius:2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 120px;
+    background-color:#35b737;
+}
+
+#menuitem4 {
+    padding:10px;
+    text-align:center;
+    text-decoration:none;
+    list-style-type:none;
+    cursor: pointer;
+    display:inline-block;
+    border-radius:2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 120px;
+    background-color:#ff0c20;
+}
+
+#menuitem5 {
+    padding:10px;
+    text-align:center;
+    text-decoration:none;
+    list-style-type:none;
+    cursor: pointer;
+    display:inline-block;
+    border-radius:2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 120px;
+    background-color:#86868e;
+}
+
+a {
+    color: #bed2e2;
+    text-decoration: none;
+}
+
+.divider {
+    width: 100px;
+    height: 5px;
+}
+    
+#main {
+    padding-left: 20px;
+}
+
+#sidebar {
+    padding-left: 20px;
+}
+
+#bottom {
+    padding-left: 20px;
+    font-style:italic;
+}
